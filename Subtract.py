@@ -4,3 +4,4 @@ def Subtractor(*args):
     return args[0] - sum(args[1:])
 
 
+print(Subtractor(1,2))
